@@ -52,11 +52,9 @@ To build an Android app that retrieves data in JSON format from a web API, displ
   <tr>
     <td><img width="376" height="830" alt="image" src="https://github.com/user-attachments/assets/2d3f3bd0-f317-47cc-b527-85e020581226" />
 </td>
-    <td><img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/a603edf9-b1a1-4649-b2fd-340bb74d6d81" />
+    <td><img width="372" height="816" alt="image" src="https://github.com/user-attachments/assets/961a4650-f9eb-4b69-99fa-e4b5c446d6d2" />
 </td>
-    <td><img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/91e639e4-b839-4060-9ce8-86e530812200" />
-</td>
-    <td><img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/e0119dbc-4a6b-4a9a-b8b0-704e1258e240" />
+    <td><img width="369" height="825" alt="image" src="https://github.com/user-attachments/assets/604a0718-a626-4480-b556-f671b0ca980a" />
 </td>
   </tr>
 </table>
