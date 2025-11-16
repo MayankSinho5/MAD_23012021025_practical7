@@ -50,7 +50,7 @@ To build an Android app that retrieves data in JSON format from a web API, displ
     <th>Fetch Details:</th>
   </tr>
   <tr>
-    <td><img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/469d3f3e-4070-43ce-8882-f56d32d6b835" />
+    <td><img width="376" height="830" alt="image" src="https://github.com/user-attachments/assets/2d3f3bd0-f317-47cc-b527-85e020581226" />
 </td>
     <td><img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/a603edf9-b1a1-4649-b2fd-340bb74d6d81" />
 </td>
